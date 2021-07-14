@@ -1,6 +1,8 @@
 # replacefirefoxicon
 A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 
+Tested on macOS, should work on Win/Linux.
+
 ---
 
 ## Quantum
