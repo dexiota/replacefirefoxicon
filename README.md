@@ -7,7 +7,7 @@ Put the `chrome` folder in your Firefox profile folder. Enable `toolkit.legacyUs
 
 ---
 
-## Quantum
+## [Quantum](https://github.com/dexiota/replacefirefoxicon/tree/main/Quantum/chrome)
 Replaces the default Firefox logo with the Quantum logo.
 [macOS Quantum Icon](https://github.com/dexiota/replacefirefoxicon/blob/main/README/Quantum-icns.icns?raw=true)
 ![](https://raw.githubusercontent.com/dexiota/replacefirefoxicon/main/README/Quantum-1-opti.webp)
