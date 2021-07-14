@@ -3,6 +3,8 @@ A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 
 Tested on macOS, should work on Win/Linux.
 
+Put the `chrome` folder in your Firefox profile folder. Enable `toolkit.legacyUserProfileCustomizations.stylesheets` in about:config.
+
 ---
 
 ## Quantum
