@@ -1,0 +1,18 @@
+.tab-icon-stack .tab-icon-image[src="chrome://branding/content/icon32.png"]{
+	background:url("firefox-logo.svg")!important;
+	background-size: 16px !important;
+	padding-left: 16px !important;
+}
+
+@-moz-document url("chrome://browser/content/aboutDialog.xhtml") {
+	/* change logo png, svg, even gif anims */
+	#leftBox {
+		background-image: url("firefox-logo.svg") !important;
+		background-position: left !important;
+		background-repeat: no-repeat !important;
+	}
+}
+
+#identity-box[pageproxystate="valid"].chromeUI #identity-icon {
+	list-style-image: url("firefox-logo.svg") !important;
+  }

@@ -1,0 +1,10 @@
+/*For Home Screen*/
+@-moz-document url(about:home), url(about:newtab){
+	.logo {background-image: url("firefox-logo.svg") !important;}
+}
+
+
+/*For Private Home Screen*/
+@-moz-document url(about:privatebrowsing) {
+	.logo {background-image: url("firefox-logo.svg") !important;}
+}
